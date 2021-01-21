@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: eu-west-2
+      auto: false
+    credentials:
+      access-key: AKIAZULSNJ2AV4RK3ZVI
+      secret-key: FWHEslILztIG+VvYvWUy+pp2tV5wf8E0fADZMz1A
+    end-point:
+      uri: arn:aws:sns:eu-west-2:662201781889:sampleTopic
